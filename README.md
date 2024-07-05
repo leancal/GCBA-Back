@@ -127,11 +127,11 @@
 
  - **Para acceder a la consola H2 y ver la base de datos en memoria:**
 
-      Acceder a: http://localhost:8080/h2-console
-      Configuración de conexión:
-          JDBC URL: jdbc:h2:mem:testdb
-          User Name: usuario
-          Password: 123456789
+      -Acceder a: http://localhost:8080/h2-console
+      -Configuración de conexión:
+         - JDBC URL: jdbc:h2:mem:testdb
+         - User Name: usuario
+         - Password: 123456789
 
 
 
